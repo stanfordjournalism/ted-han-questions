@@ -42,3 +42,7 @@ Ted was an editor for Source News's [Field Guide to Open Source in the Newsroom]
 Ted gave a talk to TEDX in 2012: ["Open Collaboration, Open Data and Open Source Software Development"](https://www.youtube.com/watch?v=pCGQZMnGfj0)
 
 DocumentCloud was a 2011 Knight News Challenge Winner; [an interview with him at the time](https://vimeo.com/31889543).
+
+
+- On Twitter: https://twitter.com/knowtheory
+
