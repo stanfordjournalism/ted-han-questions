@@ -16,7 +16,7 @@ If you are taking the Computational Journalism class, read the [instructions.md]
 
 ## About Ted Han
 
-![img of Ted Tweet](http://i.imgur.com/KKpxPW7.png)
+![img of Ted Tweet](http://i.imgur.com/nlBiy3P.png)
 
 Ted Han is the [Director of Technology and Lead Developer at DocumentCloud](https://www.documentcloud.org/about), where he has spent 5 years building and maintaining a public-facing application to which investigative news organizations entrust to host, protect, and disseminate vital reporting documents.
 
