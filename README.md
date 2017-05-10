@@ -4,7 +4,7 @@ If you are taking the Computational Journalism class, read the [instructions.md]
 
 ## Questions for Ted
 
-- Dogs or cats? *CL*
+
 - Pepsi or coke?
 - In your experience, what challenges or issues are particular to the field of journalism when it comes to doing programming and application development work? *DN*
 - How eager/reluctant were journalists to upload sensitive documents (especially in preparation for a story that hadn't been published yet) to DocumentCloud? How did DocumentCloud adapt to meet the needs/worries of journalists? How did you convince them of the worth of publishing source documents? *DN*
