@@ -114,6 +114,109 @@ It is inevitable that when more than one person tries to make edits and then pus
 
 It's not much different here, except the error messages are much scarier.
 
+The most common error message will come when you're trying to push your changes to the remote server, but someone else has made changes to the origin/master Github repo between the time of your previous pull/clone, and now, as you're trying to push your version of the repo:
+
+```sh
+$ git add .
+$ git commit -m 'tree question'
+```
+
+Again, add/commit does nothing to the master repo, so you should not have an error at this point. But, when it comes time to `push`:
+
+```sh
+$ git push 
+
+To git@github.com:stanfordjournalism/ted-han-questions.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:stanfordjournalism/ted-han-questions.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+```
+The step to hopefully fix things is in one of the "hints"; run `git pull`:
+
+```sh
+$ git pull
+```
+
+Depending on how your system is set up, you'll be sent to a bizarre text editor in which nothing makes sense. If you really care, you can start with this [StackOverflow question](http://stackoverflow.com/questions/13507430/git-commit-in-terminal-opens-vim-but-cant-get-back-to-terminal); otherwise, you should be able to move on by typing in these keys in this exact order:
+
+        :wq
+
+
+Git has a smart algorithm for figuring out if the two different versions of a conflicted file can be automatically resovlved. Which they usually can be in the common case where one person has added files to the top of a file, and the other person has made some changes to the end of the file.
+
+Running `git pull` with automatically resolved conflicts will look like this:
+
+```sh
+$ git pull
+remote: Counting objects: 6, done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+From github.com:stanfordjournalism/ted-han-questions
+   3eddbed..cf22cd4  master     -> origin/master
+Auto-merging README.md
+Merge made by the 'recursive' strategy.
+ README.md       |   2 +
+ instructions.md | 119 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 121 insertions(+)
+ create mode 100644 instructions.md
+ ```
+
+
+Now run git push:
+
+```sh
+ $ git push
+Counting objects: 6, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 737 bytes | 0 bytes/s, done.
+Total 6 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To git@github.com:stanfordjournalism/ted-han-questions.git
+   cf22cd4..383216e  master -> master
+```   
+
+### Unresolved conflicts in git
+
+Every once in awhile, changes made by different users cannot be auto resolved. For example, consider a file that has this line:
+
+```
+The quick brown fox jumped over the lazy dog
+```
+
+User A moves some adjectives around on their version of the file
+
+```
+The lazy fox jumped over the quick brown dog
+```
+
+But User B decides to make the split the original line into modern poetry, but without changing the order of the words:
+
+```
+The quick 
+   brown fox 
+   jumped
+over
+   the lazy
+                    dog
+```
+
+No matter which person pushes their changes first, the second person is going to be told that Git can't automatically resolve these changes. What you'll end up having to do, as the user slowest to the push, is to edit your copy of the file by hand and recommit it. More info here: 
+
+https://githowto.com/resolving_conflicts
+
+Please email me or contact me on Slack (@dannguyen at newsnerdery.slack.com) if you run into issues. Don't waste more than few minutes trying to debug git error messages, just wait for me to get back to you.
+
+But above all, please do not use `git push --force` no matter what you've read on the Internet about it.
+
+
+
+
 
 
 
