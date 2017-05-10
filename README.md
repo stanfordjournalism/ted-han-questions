@@ -1,8 +1,5 @@
 # Ted Han - Computational Journalism visit on May 17, 2017
 
-han rhymes with khan
-
-
 If you are taking the Computational Journalism class, read the [instructions.md](instructions.md) file on what to do.
 
 ## Questions for Ted
