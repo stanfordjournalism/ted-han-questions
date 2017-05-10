@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+cat.jpg
+passwords.txt
+
+.DS_Store
 # C extensions
 *.so
 
