@@ -5,12 +5,12 @@ If you are currently taking the Computational Journalism class, read the [instru
 ## Questions for Ted
 
 
-- If you were a tree, what kind of tree would you be? *DN*
 - In your experience, what challenges or issues are particular to the field of journalism when it comes to doing programming and application development work? *DN*
 - How eager/reluctant were journalists to upload sensitive documents (especially in preparation for a story that hadn't been published yet) to DocumentCloud? How did DocumentCloud adapt to meet the needs/worries of journalists? How did you convince them of the worth of publishing source documents? *DN*
 - Why is uploading/publishing/disseminating documents such a challenge today? *DN*
 - What makes DocumentCloud different than Scribd? *DN*
 - Where do you see the most potential or yet-uncovered insights in terms of data/document mining as it pertains to journalism? *DN*
+- If you were a tree, what kind of tree would you be? *DN*
 
 
 
