@@ -51,3 +51,4 @@ DocumentCloud was a 2011 Knight News Challenge Winner; [an interview with him at
 
 
 - On Twitter: https://twitter.com/knowtheory
+- On Github: https://github.com/knowtheory
