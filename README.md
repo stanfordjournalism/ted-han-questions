@@ -1,12 +1,10 @@
 # Ted Han - Computational Journalism visit on May 17, 2017
 
-han rhymes (This is awesome) with khan
-
-
 If you are taking the Computational Journalism class, read the [instructions.md](instructions.md) file on what to do.
 
 ## Questions for Ted
 
+- Dogs or cats? *CL*
 - Pepsi or coke?
 - In your experience, what challenges or issues are particular to the field of journalism when it comes to doing programming and application development work? *DN*
 - How eager/reluctant were journalists to upload sensitive documents (especially in preparation for a story that hadn't been published yet) to DocumentCloud? How did DocumentCloud adapt to meet the needs/worries of journalists? How did you convince them of the worth of publishing source documents? *DN*
@@ -54,4 +52,3 @@ DocumentCloud was a 2011 Knight News Challenge Winner; [an interview with him at
 
 
 - On Twitter: https://twitter.com/knowtheory
-- On Github: https://github.com/knowtheory
