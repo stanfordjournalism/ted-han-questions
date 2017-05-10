@@ -4,13 +4,9 @@ If you are taking the Computational Journalism class, read the [instructions.md]
 
 ## Questions for Ted Han
 
-
-- Pepsi or coke?
 - In your experience, what challenges or issues are particular to the field of journalism when it comes to doing programming and application development work? *DN*
 - How eager/reluctant were journalists to upload sensitive documents (especially in preparation for a story that hadn't been published yet) to DocumentCloud? How did DocumentCloud adapt to meet the needs/worries of journalists? How did you convince them of the worth of publishing source documents? *DN*
-- If you were a tree, what kind of tree would you be? *DN*
-
-- Why is uploading/publishing/disseminating documents such a challenge today? *DN*
+- Why is uploading/disseminating documents such a challenge today? *DN*
 - What makes DocumentCloud different than Scribd? *DN*
 - Where do you see the most potential or yet-uncovered insights in terms of data/document mining as it pertains to journalism? *DN*
 
@@ -27,11 +23,11 @@ Ted Han is the [Director of Technology and Lead Developer at DocumentCloud](http
 
 Blurb taken from [Ted's TEDx Talk in 2012](https://www.youtube.com/watch?v=pCGQZMnGfj0):
 
-> Ted Han is a computational linguist by degree, developer by trade, and Sci-Fi nerd by leisure. As lead developer for DocumentCloud at Investigative Reporters and Editors (IRE), Han develops software to further the cause of journalism, journalists, and reporters. Lucky for us, he uses his super powers for good, focusing on application architecture, multi-language multi-paradigm programming, automated data processing and automated data analysis.
+> Ted Han is a computational linguist by degree, developer by trade, and Sci-Fi nerd by leisure. As lead developer for DocumentCloud at Investigative Reporters and Editors, Han develops software to further the cause of journalism, journalists, and reporters. Lucky for us, he uses his super powers for good, focusing on application architecture, multi-language multi-paradigm programming, automated data processing and automated data analysis.
 
 From his [bio at Investigative Reporters and Editors](https://www.ire.org/about/staff-bios/):
 
-> Ted Han joins DocumentCloud from Videojuicer, an online video platform focused on open standards and software integration. He's a computational linguist by degree, developer by trade, and Sci-Fi nerd by leisure. He was selected as a participant in the Knight Mozilla Journalism Challenge and has worked on DataMapper, Merb and a variety of data-based projects, including the CrisisCommons response to the Tohoku earthquake & tsunami.
+> Ted Han joins **DocumentCloud** from Videojuicer, an online video platform focused on open standards and software integration. He's a computational linguist by degree, developer by trade, and Sci-Fi nerd by leisure. He was selected as a participant in the Knight Mozilla Journalism Challenge and has worked on DataMapper, Merb and a variety of data-based projects, including the CrisisCommons response to the Tohoku earthquake & tsunami.
 
 ### DocumentCloud
 
