@@ -11,7 +11,9 @@ If you are taking the Computational Journalism class, read the [instructions.md]
 - What makes DocumentCloud different than Scribd? *DN*
 - Where do you see the most potential or yet-uncovered insights in terms of data/document mining as it pertains to journalism? *DN*
 - If you were a tree, what kind of tree would you be? *DN*
-
+- How did the design of DocumentCloud evolve to meet the needs of its users? *AN*
+- How do you decide who can upload documents to DocumentCloud? As the scale of users and documents increases, what challenges do you face? *AN*
+- How would DocumentCloud be different if it were not funded by the Knight Foundation? What markers of success do have for Documentcloud? *AN*
 
 
 ## About Ted Han
