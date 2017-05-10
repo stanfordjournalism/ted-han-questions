@@ -1,5 +1,7 @@
 # Ted Han - Computational Journalism visit on May 17, 2017
 
+If you are currently taking the Computational Journalism class, read the [instructions.md](instructions.md) file on what to do.
+
 ## Questions for Ted
 
 - In your experience, what challenges or issues are particular to the field of journalism when it comes to doing programming and application development work? *DN*
