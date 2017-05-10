@@ -2,16 +2,18 @@
 
 If you are taking the Computational Journalism class, read the [instructions.md](instructions.md) file on what to do.
 
-## Questions for Ted
+## Questions for Ted Han
 
 
 - Pepsi or coke?
 - In your experience, what challenges or issues are particular to the field of journalism when it comes to doing programming and application development work? *DN*
 - How eager/reluctant were journalists to upload sensitive documents (especially in preparation for a story that hadn't been published yet) to DocumentCloud? How did DocumentCloud adapt to meet the needs/worries of journalists? How did you convince them of the worth of publishing source documents? *DN*
+- If you were a tree, what kind of tree would you be? *DN*
+
 - Why is uploading/publishing/disseminating documents such a challenge today? *DN*
 - What makes DocumentCloud different than Scribd? *DN*
 - Where do you see the most potential or yet-uncovered insights in terms of data/document mining as it pertains to journalism? *DN*
-- If you were a tree, what kind of tree would you be? *DN*
+
 - How did the design of DocumentCloud evolve to meet the needs of its users? *AN*
 - How do you decide who can upload documents to DocumentCloud? As the scale of users and documents increases, what challenges do you face? *AN*
 - How would DocumentCloud be different if it were not funded by the Knight Foundation? What markers of success do have for Documentcloud? *AN*
