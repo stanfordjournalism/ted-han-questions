@@ -14,6 +14,9 @@ If you are taking the Computational Journalism class, read the [instructions.md]
 - How do you decide who can upload documents to DocumentCloud? As the scale of users and documents increases, what challenges do you face? *AN*
 - How would DocumentCloud be different if it were not funded by the Knight Foundation? What markers of success do have for Documentcloud? *AN*
 
+- How rare is it for journalists from different publications and ranks to come together and share open-source content online? Was there precedent for this anywhere? *IS*
+- How do you know when the documents on DocumentCloud lead to stories? Do you have an estimate or a sense of the kind of impact it's had so far? *IS*
+- There's been a lot of recent efforts to archive government source documents, including EPA ones, out of wariness that they'll be pulled off of government websites in the near future. Has DocumentCloud played any active role in that, or could you see playing an active role in the future? *IS*
 
 ## About Ted Han
 
