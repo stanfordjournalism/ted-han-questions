@@ -18,6 +18,10 @@ If you are taking the Computational Journalism class, read the [instructions.md]
 - How do you know when the documents on DocumentCloud lead to stories? Do you have an estimate or a sense of the kind of impact it's had so far? *IS*
 - There's been a lot of recent efforts to archive government source documents, including EPA ones, out of wariness that they'll be pulled off of government websites in the near future. Has DocumentCloud played any active role in that, or could you see playing an active role in the future? *IS*
 
+- How did you identify the need for a tool like DocumentCloud? Who specifically did you design DocumentCloud for and who have you seen make greatest use of the tool? *CK*
+- How are the documents on DocumentCloud collected and archived and how up to date are the documents available? What is the time range for the documents that you're collecting? *CK*
+- What are some of the shortcomings, if any, that you see in DocumentCloud now and how do you plan on addressing them in the future? What is the issue of top priority? *CK*
+
 ## About Ted Han
 
 ![img of Ted Tweet](http://i.imgur.com/nlBiy3P.png)
