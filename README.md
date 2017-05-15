@@ -17,10 +17,13 @@ If you are taking the Computational Journalism class, read the [instructions.md]
 - How rare is it for journalists from different publications and ranks to come together and share open-source content online? Was there precedent for this anywhere? *IS*
 - How do you know when the documents on DocumentCloud lead to stories? Do you have an estimate or a sense of the kind of impact it's had so far? *IS*
 - There's been a lot of recent efforts to archive government source documents, including EPA ones, out of wariness that they'll be pulled off of government websites in the near future. Has DocumentCloud played any active role in that, or could you see playing an active role in the future? *IS*
-
+- How did you identify the need for a tool like DocumentCloud? Who specifically did you design DocumentCloud for and who have you seen make greatest use of the tool? *CK*
+- How are the documents on DocumentCloud collected and archived and how up to date are the documents available? What is the time range for the documents that you're collecting? *CK*
+- What are some of the shortcomings, if any, that you see in DocumentCloud now and how do you plan on addressing them in the future? What is the issue of top priority? *CK*
 - Since your background is in tech and startups, where did your interest in journalism come from and how did you end up working on DocumentCloud? *CL*
 - Have you seen resistance from any journalists to the idea of open-source content? *CL*
 -  Besides document-sharing, what are other areas where you think tech people and journalists could work together more? *CL*
+
 
 ## About Ted Han
 
