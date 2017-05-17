@@ -15,6 +15,9 @@ If you are taking the Computational Journalism class, read the [instructions.md]
 - How did the design of DocumentCloud evolve to meet the needs of its users? *AN*
 - How do you decide who can upload documents to DocumentCloud? As the scale of users and documents increases, what challenges do you face? *AN*
 - How would DocumentCloud be different if it were not funded by the Knight Foundation? What markers of success do have for Documentcloud? *AN*
+- DocumentCloud addresses some issues with the format in which information is given to journalists; especially through FIOA requests. Do you think the data organizational methods used by DocumentCloud could ever inspire data collection and storage policies in the government agencies themselves? *KA*
+- Is there any potential (if this isn't a component already) of expanding the searchable files to include multimedia content (e.g. face recognition)? *KA*
+- Besides the number of users, is there economic evidence of steps toward DocumentCloud's mission (such as has decreased the cost of high-return or high-impact story discovery for publications)? *KA*
 
 How rare is it for journalists from different publications and ranks to come together and share open-source content online? Was there precedent for this anywhere? IS
 
